@@ -1,6 +1,6 @@
 body {
-
-    color: #7FFF00;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #006400;
   }
 .jumbotron {
     background-image: url("../images/bacteria.png");
